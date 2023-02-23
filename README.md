@@ -10,7 +10,8 @@
 
 ### 💻 Tech Stack:
 
-<img alt="HTML" src="https://img.shields.io/badge/html-e44d26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+![HTML](https://img.shields.io/badge/html-e44d26.svg?&style=for-the-badge&logo=html5&logoColor=fff "HTML")&nbsp;
+<img alt="HTML" src="" />&nbsp;
 <img alt="CSS" src="https://img.shields.io/badge/css-0692c1.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="SASS" src="https://img.shields.io/badge/sass-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="BEM" src="https://img.shields.io/badge/bem-17a1e6.svg?&style=for-the-badge&logo=bem&logoColor=fff" />&nbsp;
