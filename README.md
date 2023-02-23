@@ -1,4 +1,4 @@
-### Hello, I'm Vlad Yermolayev 👋 <span align="right">![Profile view counter](https://komarev.com/ghpvc/?username=vlad-yermolayev&label=Profile%20Views%20&color=ff0000&style=flat-square "Profile view counter")</span>
+### Hello, I'm Vlad Yermolayev 👋 <img src="https://komarev.com/ghpvc/?username=vlad-yermolayev&label=Profile%20Views%20&color=ff0000&style=flat-square" align="right" alt="Profile view counter" title="Profile view counter">
 
 # I'm a Front-End Developer, Lecturer and Mentor!
 
@@ -49,16 +49,8 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-        ![vlad-yermolayev's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=vlad-yermolayev&theme=algolia "vlad-yermolayev's Github stats")
-    </td>
-    <td>
-        ![vlad-yermolayev's Github Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad-yermolayev&theme=algolia&layout=compact "vlad-yermolayev's Github Languages")
-    </td>
-  </tr>
-</table>
+| ![vlad-yermolayev's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=vlad-yermolayev&theme=algolia "vlad-yermolayev's Github stats") | ![vlad-yermolayev's Github Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad-yermolayev&theme=algolia&layout=compact "vlad-yermolayev's Github Languages") |
+| ---- | ---- |
 
 ---
 
