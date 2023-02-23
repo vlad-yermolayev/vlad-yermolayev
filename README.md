@@ -49,16 +49,8 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-yermolayev&theme=algolia" alt="vlad-yermolayev's Github stats" title="vlad-yermolayev's Github stats" />
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad-yermolayev&theme=algolia&layout=compact" alt="vlad-yermolayev's Github Languages" title="vlad-yermolayev's Github Languages" />
-    </td>
-  </tr>
-</table>
+| ![vlad-yermolayev's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=vlad-yermolayev&theme=algolia "vlad-yermolayev's Github stats") | ![vlad-yermolayev's Github Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad-yermolayev&theme=algolia&layout=compact "vlad-yermolayev's Github Languages") |
+| ---- | ---- |
 
 ---
 
